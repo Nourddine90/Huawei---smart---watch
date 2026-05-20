@@ -1,0 +1,21 @@
+{
+  "name": "ساعة ذكية عالمية",
+  "short_name": "ساعة ذكية",
+
+
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "         
+  "theme_color": "#00e5ff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
